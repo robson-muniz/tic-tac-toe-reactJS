@@ -42,7 +42,7 @@ This Tic-Tac-Toe game showcases my expertise in ReactJS and front-end developmen
 ## Interface Highlights
 
 - **Clean and Intuitive Design**  
-![Game Start](![Screenshot 2025-01-02 at 14 24 27](https://github.com/user-attachments/assets/af6d2fba-8440-41a4-9902-4fb28d64a5df)
+![Game Start](https://github.com/user-attachments/assets/af6d2fba-8440-41a4-9902-4fb28d64a5df)
 )
 
 - **Winning State with Highlight**  
