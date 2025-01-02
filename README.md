@@ -30,11 +30,9 @@ A classic Tic-Tac-Toe game built with ReactJS. Play against a friend or enjoy th
 ---
 
 ## Screenshots
-![Game Board](
+![Game Board]
 ![Screenshot 2025-01-02 at 13 33 02](https://github.com/user-attachments/assets/6b54593c-8f26-4f54-ba14-a1cdcbd1c630)
 ![Screenshot 2025-01-02 at 13 32 36](https://github.com/user-attachments/assets/62b51eb2-c789-47b2-a38f-a0fa91220eeb)
-
-)
 
 ---
 
