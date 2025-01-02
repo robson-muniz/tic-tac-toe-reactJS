@@ -71,7 +71,7 @@ cd tic-tac-toe-reactJS && npm install
 npm start
 ```
 
-Visit `http://localhost:3000` to see the application in action, or check out the [live version](https://www.robsonmuniz.pt).
+Visit `http://localhost:3000` to see the application in action, or check out the [live version](https://cheerful-empanada-bb1fe5.netlify.app).
 
 ## 🤝 Let's Connect!
 
