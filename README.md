@@ -21,7 +21,10 @@ A classic Tic-Tac-Toe game built with ReactJS. Play against a friend or enjoy th
 ---
 
 ## Demo
-![Tic-Tac-Toe Game in Action](https://your-gif-url-here.gif)  
+![Tic-Tac-Toe Game in Action]
+![Tic Tac](https://github.com/user-attachments/assets/5403e897-dddf-47cf-a94d-1235c84c9c66)
+
+  
 👉 [**Live Demo**](https://your-live-demo-link.com)
 
 ---
