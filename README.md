@@ -43,15 +43,16 @@ This Tic-Tac-Toe game showcases my expertise in ReactJS and front-end developmen
 
 - **Clean and Intuitive Design**  
 ![Game Start](https://github.com/user-attachments/assets/af6d2fba-8440-41a4-9902-4fb28d64a5df)
-)
+
 
 - **Winning State with Highlight**  
 ![Winning State](https://github.com/user-attachments/assets/fe99d3eb-473e-4c2b-ac08-86cc613a897d)
 
 
 - **Reset Game Feature**  
-![Reset Game](https://github.com/user-attachments/assets/63e90133-608b-41a5-9e20-a74586f9f608)
-)
+![Reset Game](https://github.com/user-attachments/assets/f25dc0d4-2f28-4d97-99dd-bd9a27639594)
+()
+
 
 ---
 
@@ -62,6 +63,16 @@ This Tic-Tac-Toe game showcases my expertise in ReactJS and front-end developmen
 - **UI/UX Principles**: Prioritized simplicity and accessibility to create an engaging user experience.
 
 ---
+
+## Developer Insights
+
+Building this project reinforced my expertise in ReactJS and state management. It also deepened my understanding of creating responsive and interactive user interfaces. I am confident that the techniques used here are applicable to real-world front-end development challenges.
+
+---
+
+## Get in Touch
+
+I’m always open to new opportunities! If you're looking for a skilled front-end developer for your team or project, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/robson-muniz/) or check out my other projects on [GitHub](https://github.com/robson-muniz).
 
 ## Installation Instructions
 To run this project locally, follow these steps:
