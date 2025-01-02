@@ -58,8 +58,31 @@ Instantly restart the game with a simple reset button.
 
 ---
 
-## **How to Run Locally** 🛠️  
-Follow these steps to set up the project on your local machine:  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/robson-muniz/tic-tac-toe-reactJS.git
+## 🔧 Quick Start
+
+```bash
+# Clone repository
+git clone https://github.com/robson-muniz/tic-tac-toe-reactJS.git
+
+# Install dependencies
+cd tic-tac-toe-reactJS && npm install
+
+# Launch development server
+npm start
+```
+
+Visit `http://localhost:3000` to see the application in action, or check out the [live version](https://www.robsonmuniz.pt).
+
+## 🤝 Let's Connect!
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [Robson Muniz](https://www.linkedin.com/in/robson-muniz/) |
+| 💻 GitHub | [robson-muniz](https://github.com/robson-muniz/) |
+| 🌐 Portfolio | [robsonmuniz.pt](https://www.robsonmuniz.pt) |
+| 📧 Email | [robson_muniz@outlook.com](mailto:robson_muniz@outlook.com) |
+| 📝 DEV.to | [robsonmuniz16](https://dev.to/robsonmuniz16) |
+| ▶️ YouTube | [@DevMadeEasy](https://www.youtube.com/@DevMadeEasy) |
+| 🐦 Twitter | [@WebDevMadeEasy](https://x.com/WebDevMadeEasy) |
+
+---
