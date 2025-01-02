@@ -50,9 +50,7 @@ This Tic-Tac-Toe game showcases my expertise in ReactJS and front-end developmen
 
 
 - **Reset Game Feature**  
-![Reset Game](https://github.com/user-attachments/assets/f25dc0d4-2f28-4d97-99dd-bd9a27639594)
-()
-
+![Reset Game](https://github.com/user-attachments/assets/a4421a69-3a89-4bd6-92d0-59873d9b1e45)
 
 ---
 
