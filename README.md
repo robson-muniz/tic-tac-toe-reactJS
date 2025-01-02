@@ -87,3 +87,21 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/robson-muniz/tic-tac-toe-reactJS.git
+   ```
+
+2. Navigate to the project folder:
+   ```bash
+   cd tic-tac-toe-reactJS
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the game.
