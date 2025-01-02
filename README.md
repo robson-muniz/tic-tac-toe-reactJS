@@ -25,7 +25,7 @@ A classic Tic-Tac-Toe game built with ReactJS. Play against a friend or enjoy th
 ![Tic Tac](https://github.com/user-attachments/assets/5403e897-dddf-47cf-a94d-1235c84c9c66)
 
   
-👉 [**Live Demo**](https://your-live-demo-link.com)
+👉 [**Live Demo**](https://cheerful-empanada-bb1fe5.netlify.app)
 
 ---
 
