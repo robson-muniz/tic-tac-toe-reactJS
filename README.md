@@ -1,6 +1,10 @@
-# Tic-Tac-Toe Game
+# Tic-Tac-Toe Game 🕹️
 
-This Tic-Tac-Toe game showcases my expertise in ReactJS and front-end development. It demonstrates my ability to build intuitive, responsive interfaces with efficient state management and clean, reusable code. This project simulates real-world challenges, such as handling user interactions, managing application state, and designing user-friendly layouts, making it a testament to my problem-solving and technical skills.
+## Features ✨
+- Play a 2-player game in real-time.
+- Visual indicator for the current player.
+- Winning line highlighted at the end of the game.
+
 
 ---
 
@@ -28,7 +32,7 @@ This Tic-Tac-Toe game showcases my expertise in ReactJS and front-end developmen
 
 ---
 
-## Demo
+## Demo 🚀
 
 
 [Live Demo](https://cheerful-empanada-bb1fe5.netlify.app)
@@ -53,6 +57,11 @@ This Tic-Tac-Toe game showcases my expertise in ReactJS and front-end developmen
 ![Reset Game](https://github.com/user-attachments/assets/a4421a69-3a89-4bd6-92d0-59873d9b1e45)
 
 ---
+
+## Technologies Used 🛠️
+- ReactJS
+- CSS Modules
+- JavaScript (ES6)
 
 ## Real-World Applications
 
