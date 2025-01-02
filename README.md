@@ -32,7 +32,7 @@ This Tic-Tac-Toe game showcases my expertise in ReactJS and front-end developmen
 [Live Demo] (https://cheerful-empanada-bb1fe5.netlify.app)
 
 
-![Tic-Tac-Toe Game in Action](https://cheerful-empanada-bb1fe5.netlify.app)
+![Tic-Tac-Toe Game in Action] (https://cheerful-empanada-bb1fe5.netlify.app)
 
 
 ---
